@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.menu-link {
+    display: inline-block;
+    padding: 10px 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+}
+
+.menu-link:hover {
+    background-color: #f0f0f0;
+}
+
+[x-cloak] { 
+    display: none; 
+}
+  

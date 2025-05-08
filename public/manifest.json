@@ -1,0 +1,17 @@
+{
+    "name": "Fast Food System",
+    "short_name": "Fastfood",
+    "start_url": "/",
+    "background_color": "#6777ef",
+    "description": "This is a fast food system",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.PNG",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
