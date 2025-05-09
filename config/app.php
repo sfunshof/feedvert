@@ -188,8 +188,8 @@ return [
     ])->toArray(),
 	'LaravelPwa' => \Ladumor\LaravelPwa\LaravelPwa::class,
     'domains' => [
-        'app' => env('APP_DOMAIN', 'app.foodsystem.com'),
-        'mobile' => env('MOBILE_DOMAIN', 'mobile.foodsystem.com'), 
-        'ref' => env('REF_DOMAIN', 'ref.foodsystem.com'),
+        'app' => env('APP_DOMAIN', 'app.feedvert.com'),
+        'mobile' => env('MOBILE_DOMAIN', 'mobile.feedvert.com'), 
+        'ref' => env('REF_DOMAIN', 'ref.feedvert.com'),
     ],
 ];
